@@ -1,0 +1,38 @@
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\bin\Debug\SchoolManagemantSystem.exe.config
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\bin\Debug\SchoolManagemantSystem.exe
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\bin\Debug\SchoolManagemantSystem.pdb
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.csproj.AssemblyReference.cache
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Properties.Resources.resources
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.csproj.GenerateResource.cache
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.csproj.CoreCompileInputs.cache
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.exe
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.pdb
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Login.resources
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Splash.resources
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.MainMenu.resources
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Attendance.resources
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Event.resources
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Fees.resources
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Progress.resources
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Students.resources
+C:\Users\smitc\source\repos\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Teachers.resources
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\bin\Debug\SchoolManagemantSystem.exe.config
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\bin\Debug\SchoolManagemantSystem.exe
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\bin\Debug\SchoolManagemantSystem.pdb
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.csproj.AssemblyReference.cache
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.csproj.SuggestedBindingRedirects.cache
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Attendance.resources
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Event.resources
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Fees.resources
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Login.resources
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.MainMenu.resources
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Progress.resources
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Splash.resources
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Properties.Resources.resources
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Students.resources
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.Teachers.resources
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.csproj.GenerateResource.cache
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.csproj.CoreCompileInputs.cache
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.exe
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.pdb
+D:\sem 4 N\ADT\Project\SchoolManagemantSystem\SchoolManagemantSystem\obj\Debug\SchoolManagemantSystem.MM_Loading.resources
